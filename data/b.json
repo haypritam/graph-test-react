@@ -1,0 +1,58 @@
+[
+    {
+        "Citing_PaperID": "5678",
+        "Cited_PaperID": "1234567"
+    },
+    {
+        "Citing_PaperID": "5678",
+        "Cited_PaperID": "2345678"
+    },
+    {
+        "Citing_PaperID": "1234567",
+        "Cited_PaperID": "3456789"
+    },
+    {
+        "Citing_PaperID": "2345678",
+        "Cited_PaperID": "1234567"
+    },
+    {
+        "Citing_PaperID": "2345678",
+        "Cited_PaperID": "3456789"
+    },
+    {
+        "Citing_PaperID": "2345678",
+        "Cited_PaperID": "4567890"
+    },
+    {
+        "Citing_PaperID": "3456789",
+        "Cited_PaperID": "4567890"
+    },
+    {
+        "Citing_PaperID": "5678901",
+        "Cited_PaperID": "5678"
+    },
+    {
+        "Citing_PaperID": "6789012",
+        "Cited_PaperID": "5678"
+    },
+    {
+        "Citing_PaperID": "7890123",
+        "Cited_PaperID": "5678"
+    },
+    {
+        "Citing_PaperID": "8901234",
+        "Cited_PaperID": "5678901"
+    },
+    {
+        "Citing_PaperID": "8901234",
+        "Cited_PaperID": "7890123"
+    },
+    {
+        "Citing_PaperID": "9012345",
+        "Cited_PaperID": "8901234"
+    },
+    {
+        "Citing_PaperID": "9012345",
+        "Cited_PaperID": "6789012"
+    }
+]

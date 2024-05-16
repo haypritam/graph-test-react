@@ -1,0 +1,22 @@
+node_modules/
+.idea/            # IntelliJ-based IDE settings
+.vscode/          # Visual Studio Code settings
+.DS_Store         # macOS directory metadata file
+*.log             # Log files
+*.iml             # IntelliJ project files
+build/            # Build output directory
+dist/             # Distribution directory
+coverage/         # Code coverage reports
+.env              # Environment configuration file
+.env.local        # Local environment overrides
+.env.*            # Environment-specific configuration files (e.g., .env.production)
+yarn.lock         # Yarn lock file
+package-lock.json # npm package lock file
+.npmrc            # npm configuration file
+.yarnrc           # Yarn configuration file
+npm-debug.log*    # npm debug logs
+yarn-debug.log*   # Yarn debug logs
+yarn-error.log*   # Yarn error logs
+.eslintcache      # ESLint cache
+.tmp/             # Temporary files
+

@@ -1,0 +1,122 @@
+[
+    {
+        "AuthorID": 1,
+        "Author_Name": "John Smith",
+        "H-index": 10,
+        "Productivity": 20
+    },
+    {
+        "AuthorID": 2,
+        "Author_Name": "Jane Doe",
+        "H-index": 8,
+        "Productivity": 15
+    },
+    {
+        "AuthorID": 3,
+        "Author_Name": "Michael Johnson",
+        "H-index": 12,
+        "Productivity": 25
+    },
+    {
+        "AuthorID": 4,
+        "Author_Name": "Emily Brown",
+        "H-index": 6,
+        "Productivity": 10
+    },
+    {
+        "AuthorID": 5,
+        "Author_Name": "David Wilson",
+        "H-index": 15,
+        "Productivity": 30
+    },
+    {
+        "AuthorID": 6,
+        "Author_Name": "Jennifer Lee",
+        "H-index": 9,
+        "Productivity": 18
+    },
+    {
+        "AuthorID": 7,
+        "Author_Name": "Robert Taylor",
+        "H-index": 7,
+        "Productivity": 12
+    },
+    {
+        "AuthorID": 8,
+        "Author_Name": "Sarah Martinez",
+        "H-index": 11,
+        "Productivity": 22
+    },
+    {
+        "AuthorID": 9,
+        "Author_Name": "Daniel Thompson",
+        "H-index": 13,
+        "Productivity": 28
+    },
+    {
+        "AuthorID": 10,
+        "Author_Name": "Jessica Harris",
+        "H-index": 5,
+        "Productivity": 8
+    },
+    {
+        "AuthorID": 11,
+        "Author_Name": "Christopher Anderson",
+        "H-index": 14,
+        "Productivity": 26
+    },
+    {
+        "AuthorID": 12,
+        "Author_Name": "Amanda White",
+        "H-index": 4,
+        "Productivity": 7
+    },
+    {
+        "AuthorID": 13,
+        "Author_Name": "Matthew Thomas",
+        "H-index": 16,
+        "Productivity": 32
+    },
+    {
+        "AuthorID": 14,
+        "Author_Name": "Emma Garcia",
+        "H-index": 6,
+        "Productivity": 11
+    },
+    {
+        "AuthorID": 15,
+        "Author_Name": "Ryan Brown",
+        "H-index": 9,
+        "Productivity": 17
+    },
+    {
+        "AuthorID": 16,
+        "Author_Name": "Olivia Wilson",
+        "H-index": 10,
+        "Productivity": 21
+    },
+    {
+        "AuthorID": 17,
+        "Author_Name": "Ethan Miller",
+        "H-index": 8,
+        "Productivity": 14
+    },
+    {
+        "AuthorID": 18,
+        "Author_Name": "Chloe Moore",
+        "H-index": 12,
+        "Productivity": 24
+    },
+    {
+        "AuthorID": 19,
+        "Author_Name": "Liam Jackson",
+        "H-index": 7,
+        "Productivity": 13
+    },
+    {
+        "AuthorID": 20,
+        "Author_Name": "Sophia Taylor",
+        "H-index": 11,
+        "Productivity": 23
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "PaperID": "1234567",
+        "AuthorID": 1,
+        "AffiliationID": 1,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "1234567",
+        "AuthorID": 2,
+        "AffiliationID": 1,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "2345678",
+        "AuthorID": 3,
+        "AffiliationID": 2,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "2345678",
+        "AuthorID": 4,
+        "AffiliationID": 2,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "3456789",
+        "AuthorID": 5,
+        "AffiliationID": 3,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "3456789",
+        "AuthorID": 6,
+        "AffiliationID": 3,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "4567890",
+        "AuthorID": 7,
+        "AffiliationID": 4,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "4567890",
+        "AuthorID": 8,
+        "AffiliationID": 4,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "5678901",
+        "AuthorID": 9,
+        "AffiliationID": 5,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "5678901",
+        "AuthorID": 10,
+        "AffiliationID": 5,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "6789012",
+        "AuthorID": 11,
+        "AffiliationID": 6,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "6789012",
+        "AuthorID": 12,
+        "AffiliationID": 6,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "7890123",
+        "AuthorID": 13,
+        "AffiliationID": 7,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "7890123",
+        "AuthorID": 14,
+        "AffiliationID": 7,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "8901234",
+        "AuthorID": 15,
+        "AffiliationID": 8,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "8901234",
+        "AuthorID": 16,
+        "AffiliationID": 8,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "9012345",
+        "AuthorID": 17,
+        "AffiliationID": 9,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "9012345",
+        "AuthorID": 18,
+        "AffiliationID": 9,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "0123456",
+        "AuthorID": 19,
+        "AffiliationID": 10,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "0123456",
+        "AuthorID": 20,
+        "AffiliationID": 10,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "123456",
+        "AuthorID": 3,
+        "AffiliationID": 11,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "123456",
+        "AuthorID": 7,
+        "AffiliationID": 11,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "234567",
+        "AuthorID": 7,
+        "AffiliationID": 11,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "234567",
+        "AuthorID": 9,
+        "AffiliationID": 12,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "345678",
+        "AuthorID": 1,
+        "AffiliationID": 12,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "345678",
+        "AuthorID": 6,
+        "AffiliationID": 13,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "45678",
+        "AuthorID": 8,
+        "AffiliationID": 13,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "45678",
+        "AuthorID": 2,
+        "AffiliationID": 14,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "5678",
+        "AuthorID": 9,
+        "AffiliationID": 14,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "5678",
+        "AuthorID": 20,
+        "AffiliationID": 15,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "678",
+        "AuthorID": 15,
+        "AffiliationID": 15,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "678",
+        "AuthorID": 18,
+        "AffiliationID": 16,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "78",
+        "AuthorID": 13,
+        "AffiliationID": 16,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "78",
+        "AuthorID": 12,
+        "AffiliationID": 17,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "8",
+        "AuthorID": 17,
+        "AffiliationID": 18,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "8",
+        "AuthorID": 19,
+        "AffiliationID": 19,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "9",
+        "AuthorID": 16,
+        "AffiliationID": 20,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "9",
+        "AuthorID": 14,
+        "AffiliationID": 21,
+        "AuthorSequenceNumber": 2
+    },
+    {
+        "PaperID": "10",
+        "AuthorID": 13,
+        "AffiliationID": 22,
+        "AuthorSequenceNumber": 1
+    },
+    {
+        "PaperID": "10",
+        "AuthorID": 2,
+        "AffiliationID": 23,
+        "AuthorSequenceNumber": 2
+    }
+]
